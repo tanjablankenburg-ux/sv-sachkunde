@@ -36,7 +36,7 @@ export const questions: Question[] = [
       { key: `b`, text: `Dr. Christoph Rummel` },
       { key: `c`, text: `Konrad Adenauer` },
     ],
-    correct: [`a`, `b`],
+    correct: [`a`],
   },
   {
     id: 3,
