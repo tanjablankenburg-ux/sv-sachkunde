@@ -913,7 +913,7 @@ export const questions: Question[] = [
       { key: `c`, text: `Sie versuchen, gemeinsam mit ihm den Gegner zu verjagen.` },
       { key: `d`, text: `Sie ziehen an der Leine und schlagen notfalls auf ihn ein.` },
     ],
-    correct: [`a`, `b`],
+    correct: [`a`],
   },
   {
     id: 81,
