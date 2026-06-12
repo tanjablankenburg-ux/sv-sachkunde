@@ -764,7 +764,7 @@ export const questions: Question[] = [
       { key: `c`, text: `überwiegend im Zwinger gehalten werden.` },
       { key: `d`, text: `viele positive Erfahrungen in seiner Umwelt machen.` },
     ],
-    correct: [`b`, `d`],
+    correct: [`b`],
   },
   {
     id: 68,
