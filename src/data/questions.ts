@@ -333,8 +333,8 @@ export const questions: Question[] = [
     text: `Wie erkennt man, dass ein Hund krank ist?`,
     options: [
       { key: `a`, text: `Veränderungen der Körpertemperatur` },
-      { key: `b`, text: `Veränderungen des Pulses` },
-      { key: `c`, text: `Veränderungen der Atmung` },
+      { key: `b`, text: `Veränderungen des Pulses,` },
+      { key: `c`, text: `Veränderungen der Atmung.` },
       { key: `d`, text: `Gleich bleibender Appetit und Durst` },
       { key: `e`, text: `Teilnahmslosigkeit` },
     ],
